@@ -1,0 +1,3 @@
+Sitemap: https://stream.service-ways.com/sitemap.xml
+User-Agent: *
+Disallow:
